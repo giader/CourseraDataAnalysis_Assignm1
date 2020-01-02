@@ -13,7 +13,9 @@ Methods:
 
 Data Collection 
 
-For our analysis we used a sample of 2,500 peer-to-peer loans issued through the Lending Club. The data were downloaded, using the R programming language, from following link:
+For our analysis we used a sample of 2,500 peer-to-peer loans issued through the Lending Club. 
+The data were downloaded, using the R programming language, from following link:
 https://spark-public.s3.amazonaws.com/dataanalysis/loansData.csv
+
 The code book for the variables in the data set is available here
 https://spark-public.s3.amazonaws.com/dataanalysis/loansCodebook.pdf
