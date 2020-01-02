@@ -2,7 +2,7 @@
 Peer-to-peer lending interest rate analysis
 Introduction
 
-“Peer-to-peer lending is the practice of lending money to unrelated individuals, or peers, without going through a traditional financial intermediary such as a bank or other traditional financial institution. This lending takes place online on peer-to-peer lending companies' websites using various different lending platforms and credit checking tools” [1].
+Peer-to-peer lending is the practice of lending money to unrelated individuals, or peers, without going through a traditional financial intermediary such as a bank or other traditional financial institution. This lending takes place online on peer-to-peer lending companies' websites using various different lending platforms and credit checking tools” [1].
 Lending Club is one of the online financial community that brings together creditworthy borrowers and savvy investors replacing the high cost and complexity of bank lending with a faster way to borrow and invest [2].
 Borrowers can apply for a loan online and get an instant rate quote. Lending Club claims that the interest rate of these loans is determined on the basis of characteristics of the person asking for the loan such as their employment history, credit history, and creditworthiness scores.
 The aim of this assignment is to parse an analysis to determine if there is a significant association between the interest rate of the loan and the features of borrowers. 
